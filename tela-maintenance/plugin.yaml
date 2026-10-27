@@ -1,0 +1,3 @@
+name: tela-maintenance
+version: 1.0.0
+description: "Weekly maintenance automation for the tela memory provider: tidies the memory pages and reports what changed."
